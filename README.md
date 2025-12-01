@@ -4,11 +4,10 @@ Full Stack Developer | React • Next.js • Node.js • AWS • Python (NLP/AI)
 📍 Greater Toronto Area (GTA), Canada
 📧 waqassalman97@hotmail.com
 
-🔗 LinkedIn
+🔗 LinkedIn: https://www.linkedin.com/in/waqas-salman
 
-🔗 Portfolio Website
+🔗 Portfolio Website: https://waqassalman.github.io/Portfolio_website/
 
-🔗 Resume (PDF)
 
 🚀 About Me
 
